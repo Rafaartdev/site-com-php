@@ -1,4 +1,7 @@
-<?php include "includes/cabecalho.php" ?>
+<?php
+$titulo = "equipe -";
+include "includes/cabecalho.php" 
+?>
 
 <header class="text-center">
             <h2>Nossa Equipe</h2>
