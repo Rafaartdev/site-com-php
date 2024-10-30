@@ -1,13 +1,14 @@
 <?php include "includes/cabecalho.php" ?>
 
+<header class="text-center">
             <h2>Nossa Equipe</h2>
             <ul>
                 <li>Capitão Caverna</li>
                 <li>Formiga Atômica</li>
-                <li>Rege Against</li>
+                <li>Rage Against</li>
 
             </ul>
-
+</header>
         </article>
 
 
